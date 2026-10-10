@@ -1,4 +1,4 @@
-# Hi, I'm Hlib Lisovenko 👋
+# Hi, I'm Hlib Lisovenko 
 
 I am an **Investigative Analyst** transitioning into **SOC L2 / Incident Response**, combining professional experience in **Fraud Operations & Platform Abuse Investigations** with practical skills in OS telemetry, digital forensics, and network analysis.
 
@@ -6,7 +6,7 @@ Having investigated complex abuse vectors, multi-accounting networks, and high-r
 
 ---
 
-### 💼 Professional Experience & Core Strengths
+### Professional Experience & Core Strengths
 
 **Fraud & Risk Operations Analyst | Trust & Safety (International Digital Platform)**
 - **Behavioral Analysis & Anomaly Detection:** Tracked sophisticated abuse schemes, linked-account clusters, and evasive adversary techniques across high-volume digital environments.
@@ -16,7 +16,7 @@ Having investigated complex abuse vectors, multi-accounting networks, and high-r
 
 ---
 
-### 🛠️ Technical Focus & Security Tooling
+### Technical Focus & Security Tooling
 
 - **Operating Systems & Telemetry:** Windows Internals, Sysmon, Windows Event Logs (Security/Sysmon), Linux Fundamentals.
 - **Network Traffic Analysis:** Wireshark, TShark, Network Protocols (DNS, TCP, TLS, Kerberos, SMB), PCAP triage.
@@ -27,7 +27,7 @@ Having investigated complex abuse vectors, multi-accounting networks, and high-r
 ---
 
 <!--
-### 🔍 Featured Investigations & Blue Team Labs
+### Featured Investigations & Blue Team Labs
 
 | Investigation / Case | Target Focus | Artifacts Analyzed | Report Link |
 | :--- | :--- | :--- | :--- |
@@ -36,7 +36,7 @@ Having investigated complex abuse vectors, multi-accounting networks, and high-r
 | **Case #03: [Case Name]** | *e.g., Active Directory Account Compromise* | Event ID 4624, 4625, 4720 | [Read Report](./) |
 -->
 
-### 🌐 Connect With Me
+### Connect With Me
 
 - **LinkedIn:** [Hlib Lisovenko](https://www.linkedin.com/in/hlib-lisovenko-3864b1304)
 - **Practice Platforms:** [CyberDefenders](https://cyberdefenders.org/p/midnightat/)
