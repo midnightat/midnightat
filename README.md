@@ -1,4 +1,4 @@
-# Hi, I'm Hlib Lisovenko 
+# Hi, I'm Hlib L.  
 
 I am an **Investigative Analyst** transitioning into **SOC L2 / Incident Response**, combining professional experience in **Fraud Operations & Platform Abuse Investigations** with practical skills in OS telemetry, digital forensics, and network analysis.
 
